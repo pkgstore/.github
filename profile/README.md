@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [**iHub TO**](https://ihub.to/) is a non-profit organization dedicated to research and development of web technologies.
 
 We are engaged in development of web applications, modules, add-ons. We make localizations for CMF / CMS. We administer servers and workstations, write documentation and useful articles.
@@ -36,9 +34,11 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 <img src="https://raw.githubusercontent.com/pkgstore/.github/main/img.02.min.svg" width="100%" alt="OctoCat"/>
 
-## Mirrors
+## Sources
 
-- [GitLab](https://gitlab.com/pkgstore)
-- [Codeberg](https://codeberg.org/pkgstore)
-- [MosHub](https://hub.mos.ru/pkgstore)
-- [Git.Org.Ru](https://git.org.ru/pkgstore)
+- [**GitHub**](https://github.com/pkgstore)
+- [GitLab](https://gitlab.com/pkgstore) (MIRROR)
+- [Codeberg](https://codeberg.org/pkgstore) (MIRROR)
+- [Disroot](https://git.disroot.org/pkgstore) (MIRROR)
+- [MosHub](https://hub.mos.ru/pkgstore) (MIRROR)
+- [Git.Org.Ru](https://git.org.ru/pkgstore) (MIRROR)
