@@ -1,6 +1,4 @@
-[**iHUB**](https://ihub.to/) is a non-profit organization dedicated to research and development in server and web technologies.
-
-We develop web applications, modules and add-ons. We administer servers and workstations, write documentation and useful articles.
+[**iHUB**](https://ihub.to/) is a non-profit organization dedicated to research and development in server and web technologies. We develop web applications, modules and add-ons. We administer servers and workstations, write documentation and useful articles.
 
 **Package Store** is our global repository of knowledge and development for CMS/CMF, Linux and various other systems.
 
@@ -13,23 +11,23 @@ We develop web applications, modules and add-ons. We administer servers and work
 
 ## Topics
 
-- [CMF](/search?q=topic:cmf+org:pkgstore&type=Repositories)
-  - [Drupal](/search?q=topic:drupal+org:pkgstore&type=Repositories)
-  - [Flarum](/search?q=topic:flarum+org:pkgstore&type=Repositories)
-  - [Hugo](/search?q=topic:hugo+org:pkgstore&type=Repositories)
-  - [MediaWiki](/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
-  - [XenForo](/search?q=topic:xenforo+org:pkgstore&type=Repositories)
+- [CMF](https://github.com/search?q=topic:cmf+org:pkgstore&type=Repositories)
+  - [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories)
+  - [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories)
+  - [Hugo](https://github.com/search?q=topic:hugo+org:pkgstore&type=Repositories)
+  - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
+  - [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories)
 - Language
-  - [Bash](/search?q=topic:bash+org:pkgstore&type=Repositories)
-  - [PHP](/search?q=topic:php+org:pkgstore&type=Repositories)
-  - [PowerShell](/search?q=topic:pwsh+org:pkgstore&type=Repositories)
-- [OS Linux](/search?q=topic:linux+org:pkgstore&type=Repositories)
-  - [Debian](/search?q=topic:debian+org:pkgstore&type=Repositories)
-- [OS Windows](/search?q=topic:windows+org:pkgstore&type=Repositories)
+  - [Bash](https://github.com/search?q=topic:bash+org:pkgstore&type=Repositories)
+  - [PHP](https://github.com/search?q=topic:php+org:pkgstore&type=Repositories)
+  - [PowerShell](https://github.com/search?q=topic:pwsh+org:pkgstore&type=Repositories)
+- [OS Linux](https://github.com/search?q=topic:linux+org:pkgstore&type=Repositories)
+  - [Debian](https://github.com/search?q=topic:debian+org:pkgstore&type=Repositories)
+- [OS Windows](https://github.com/search?q=topic:windows+org:pkgstore&type=Repositories)
 
 ## Resources
 
-- [GHA Store](/ghastore)  
+- [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
 
 <img src="https://raw.githubusercontent.com/pkgstore/.github/main/img.02.min.svg" width="100%" alt="OctoCat"/>
