@@ -1,8 +1,8 @@
-[**iHub TO**](https://ihub.to/) is a non-profit organization dedicated to research and development of web technologies.
+[**iHUB**](https://ihub.to/) is a non-profit organization dedicated to research and development in server and web technologies.
 
-We are engaged in development of web applications, modules, add-ons. We make localizations for CMF / CMS. We administer servers and workstations, write documentation and useful articles.
+We develop web applications, modules and add-ons. We administer servers and workstations, write documentation and useful articles.
 
-**Package Store** is our global knowledge and development storage for CMS/CMF, Linux OS and other various systems.
+**Package Store** is our global repository of knowledge and development for CMS/CMF, Linux and various other systems.
 
 <img src="https://raw.githubusercontent.com/pkgstore/.github/main/img.01.min.svg" width="100%" alt="OctoCat"/>
 
@@ -13,32 +13,29 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Topics
 
-- [CMF](https://github.com/search?q=topic:cmf+org:pkgstore&type=Repositories)
-  - [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories)
-  - [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories)
-  - [Hugo](https://github.com/search?q=topic:hugo+org:pkgstore&type=Repositories)
-  - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
-  - [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories)
+- [CMF](/search?q=topic:cmf+org:pkgstore&type=Repositories)
+  - [Drupal](/search?q=topic:drupal+org:pkgstore&type=Repositories)
+  - [Flarum](/search?q=topic:flarum+org:pkgstore&type=Repositories)
+  - [Hugo](/search?q=topic:hugo+org:pkgstore&type=Repositories)
+  - [MediaWiki](/search?q=topic:mediawiki+org:pkgstore&type=Repositories)
+  - [XenForo](/search?q=topic:xenforo+org:pkgstore&type=Repositories)
 - Language
-  - [Bash](https://github.com/search?q=topic:bash+org:pkgstore&type=Repositories)
-  - [PHP](https://github.com/search?q=topic:php+org:pkgstore&type=Repositories)
-  - [PowerShell](https://github.com/search?q=topic:pwsh+org:pkgstore&type=Repositories)
-- [OS Linux](https://github.com/search?q=topic:linux+org:pkgstore&type=Repositories)
-  - [Debian](https://github.com/search?q=topic:debian+org:pkgstore&type=Repositories)
-- [OS Windows](https://github.com/search?q=topic:windows+org:pkgstore&type=Repositories)
+  - [Bash](/search?q=topic:bash+org:pkgstore&type=Repositories)
+  - [PHP](/search?q=topic:php+org:pkgstore&type=Repositories)
+  - [PowerShell](/search?q=topic:pwsh+org:pkgstore&type=Repositories)
+- [OS Linux](/search?q=topic:linux+org:pkgstore&type=Repositories)
+  - [Debian](/search?q=topic:debian+org:pkgstore&type=Repositories)
+- [OS Windows](/search?q=topic:windows+org:pkgstore&type=Repositories)
 
 ## Resources
 
-- [GHA Store](https://github.com/ghastore)  
+- [GHA Store](/ghastore)  
   GitHub Actions store.
 
 <img src="https://raw.githubusercontent.com/pkgstore/.github/main/img.02.min.svg" width="100%" alt="OctoCat"/>
 
-## Sources
+## Mirrors
 
-- [**GitHub**](https://github.com/pkgstore)
-- [GitLab](https://gitlab.com/pkgstore) (MIRROR)
-- [Codeberg](https://codeberg.org/pkgstore) (MIRROR)
-- [Disroot](https://git.disroot.org/pkgstore) (MIRROR)
-- [MosHub](https://hub.mos.ru/pkgstore) (MIRROR)
-- [Git.Org.Ru](https://git.org.ru/pkgstore) (MIRROR)
+- [GitLab](https://gitlab.com/pkgstore)
+- [Codeberg](https://codeberg.org/pkgstore)
+- [Disroot](https://git.disroot.org/pkgstore)
